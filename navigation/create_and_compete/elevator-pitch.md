@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create and Compete - Elevators Pitch
+title: Create and Compete - Elevators Pitches
 search_exclude: true
 permalink: /create_and_compete/elevatorpitch
 menu: nav/create_and_compete.html
